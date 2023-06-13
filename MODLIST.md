@@ -1,5 +1,41 @@
-# Here you can find mods that are used and have been used in releases and throughout the modpack's existence
+# Here you can find mods that are currently being used in the modpack and that have been used
+
+## mods that are currently used in the modpack
+> The list below matches
 
 ## All mods that were used:
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Sodium](https://modrinth.com/mod/sodium)
+* [AmbientSounds](https://modrinth.com/mod/ambientsounds)
+* [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
+* [Chunky](https://modrinth.com/plugin/chunky)
+* [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [Continuity](https://modrinth.com/mod/continuity)
+* [CreativeCore](https://modrinth.com/mod/creativecore)
+* [DeathLog](https://modrinth.com/mod/deathlog)
+* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+* [Eating Animation](https://modrinth.com/mod/eating-animation)
+* [Entity Culling](https://modrinth.com/mod/entityculling)
+* [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+* [Indium](https://modrinth.com/mod/indium)
+* [Iris Shaders](https://modrinth.com/mod/iris)
+* [Krypton](https://modrinth.com/mod/krypton)
+* [Lithium](https://modrinth.com/mod/lithium)
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+* [Mod Menu](https://modrinth.com/mod/modmenu)
+* [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+* [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)
+* [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+* [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
+* [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
+* [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+* [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+* [Starlight](https://modrinth.com/mod/starlight)
+* [Visuality](https://modrinth.com/mod/visuality)
+* [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+* [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+* [Zoomify](https://modrinth.com/mod/zoomify)
