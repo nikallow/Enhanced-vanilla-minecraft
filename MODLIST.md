@@ -1,9 +1,5 @@
-# Here you can find mods that are currently being used in the modpack and that have been used
+# Here you can find mods that are used in the modpack
 
-## mods that are currently used in the modpack
-> The list below matches
-
-## All mods that were used:
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds)
