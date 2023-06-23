@@ -36,3 +36,4 @@
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 * [Zoomify](https://modrinth.com/mod/zoomify)
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
+* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
