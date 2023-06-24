@@ -10,6 +10,10 @@ This modpack aimed at optimizing and improving the vanilla minecraft.
 >
 > https://github.com/nikallow/Enhanced-vanilla-minecraft/blob/main/MODLIST.md
 
+> Information about the modpack for each version of Minecraft:
+>
+> https://github.com/nikallow/Enhanced-vanilla-minecraft/blob/main/versions.md
+
 > License:
 >
 > https://github.com/nikallow/Enhanced-vanilla-minecraft/blob/main/LICENSE.md
