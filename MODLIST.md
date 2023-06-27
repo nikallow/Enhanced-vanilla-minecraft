@@ -38,3 +38,4 @@
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [AppleSkin](https://modrinth.com/mod/appleskin)
+* [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
