@@ -5,7 +5,7 @@
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
 * [Chunky](https://modrinth.com/plugin/chunky)
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [Cloth Config API](https://modrinth.com/mod/cloth-config) (Not in use at the moment)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [CreativeCore](https://modrinth.com/mod/creativecore)
 * [DeathLog](https://modrinth.com/mod/deathlog)
