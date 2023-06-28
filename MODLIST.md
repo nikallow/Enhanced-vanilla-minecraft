@@ -26,7 +26,7 @@
 * [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
-* [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
+* [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) (Not in use at the moment)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 * [Starlight](https://modrinth.com/mod/starlight)
