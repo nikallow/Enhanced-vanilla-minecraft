@@ -1,5 +1,6 @@
 # Here you can find mods that are used in the modpack
 
+### Modrinth:
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds)
@@ -39,3 +40,6 @@
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [AppleSkin](https://modrinth.com/mod/appleskin)
 * [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
+
+### CurseForge:
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
