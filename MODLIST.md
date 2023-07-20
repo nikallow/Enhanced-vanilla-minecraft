@@ -6,7 +6,7 @@
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
 * [Chunky](https://modrinth.com/plugin/chunky)
-* [Cloth Config API](https://modrinth.com/mod/cloth-config) (~~Not in use at the moment~~ something's coming up 👀)
+* [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [CreativeCore](https://modrinth.com/mod/creativecore)
 * [DeathLog](https://modrinth.com/mod/deathlog)
@@ -40,6 +40,13 @@
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [AppleSkin](https://modrinth.com/mod/appleskin)
 * [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
+* [AdvancementInfo](https://modrinth.com/mod/advancementinfo)
+* [BetterF3](https://modrinth.com/mod/betterf3)
+* [Block Meter](https://modrinth.com/mod/blockmeter)
+* [Emotecraft](https://modrinth.com/mod/emotecraft)
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+* [ItemSwapper](https://modrinth.com/plugin/itemswapper)
+* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 
 ### CurseForge:
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)

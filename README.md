@@ -8,6 +8,21 @@
     ></a>
 </h1>
 
+---
+### NEW BIG UPDATE! [Download now](https://modrinth.com/modpack/enhanced-vanilla-minecraft/version/1.20.1_5a)
+
+- Improved building experience with the ItemSwapper mod
+- Emotions
+- F3 menu without unnecessary information
+- Ruler in Minecraft with Block Meter mod
+- Informative Advancements menu
+- Custom item textures
+- Optimisation of block entities
+- Update mods 
+
+#### And now the configs are already in the modpack, you don't need to configure anything after installation
+---
+
 ## Other links:
 
 * [**📜Modlist**](https://github.com/nikallow/Enhanced-vanilla-minecraft/blob/main/MODLIST.md)
