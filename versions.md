@@ -3,7 +3,7 @@
 ## 1.20.1 
 > I recommend finding the new version on the [modpack page](https://modrinth.com/modpack/enhanced-vanilla-minecraft).
 >
-> The latest **release**: [1.20.1_4a](https://modrinth.com/modpack/enhanced-vanilla-minecraft/version/1.20.1_4a)  
+> The latest **release**: [1.20.1_5a](https://modrinth.com/modpack/enhanced-vanilla-minecraft/version/1.20.1_5a)  
 > The latest unstable version: **NONE**
 
 ## 1.20 [❌Not supported]
