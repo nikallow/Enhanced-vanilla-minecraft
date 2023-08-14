@@ -9,7 +9,7 @@
 </h1>
 
 ---
-### NEW BIG UPDATE! [Download now](https://modrinth.com/modpack/enhanced-vanilla-minecraft/version/1.20.1_5a)
+### BIG UPDATE! [Download now](https://modrinth.com/modpack/enhanced-vanilla-minecraft/version/1.20.1_5b)
 
 - Improved building experience with the ItemSwapper mod
 - Emotions
