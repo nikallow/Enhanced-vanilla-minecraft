@@ -9,18 +9,15 @@
 </h1>
 
 ---
-### BIG UPDATE! [Download now](https://modrinth.com/modpack/enhanced-vanilla-minecraft/version/1.20.1_5b)
+### Enhanced Vanilla Minecraft is a modpack for Minecraft aimed at optimizing and improving the vanilla game. Here are some improvements that the modpack brings: 
+* F3 menu without unnecessary information
+* Emotions
+* Minimap
+* Previewing items in shulkers
+* Ruler in Minecraft with Block Meter mod
+* Improved building experience with the ItemSwapper mod
 
-- Improved building experience with the ItemSwapper mod
-- Emotions
-- F3 menu without unnecessary information
-- Ruler in Minecraft with Block Meter mod
-- Informative Advancements menu
-- Custom item textures
-- Optimisation of block entities
-- Update mods 
-
-#### And now the configs are already in the modpack, you don't need to configure anything after installation
+### You can find more information on the [Modrinth page](https://modrinth.com/modpack/enhanced-vanilla-minecraft)
 ---
 
 ## Other links:
