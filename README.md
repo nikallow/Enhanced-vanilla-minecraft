@@ -6,6 +6,8 @@
     <a href="https://fabricmc.net/"><img src="https://cdn.discordapp.com/attachments/705864145169416313/969720133998239794/fabric_supported.png"
         alt="Supported on Fabric" height="30"
     ></a>
+    <a href="https://modrinth.com/modpack/enhanced-vanilla-minecraft/versions"><img alt="Modrinth Version" src="https://img.shields.io/modrinth/v/1EWqZYl7?style=for-the-badge&label=Latest%20version"></a>
+
 </h1>
 
 ---
@@ -24,3 +26,5 @@
 
 * [**📜Modlist**](https://github.com/nikallow/Enhanced-vanilla-minecraft/blob/main/MODLIST.md)
 * [**Information about the modpack for each version of Minecraft**](https://github.com/nikallow/Enhanced-vanilla-minecraft/blob/main/versions.md)
+
+
