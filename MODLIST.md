@@ -27,7 +27,7 @@
 * [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
-* [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) (Not in use at the moment)
+* ~~[Smooth Swapping](https://modrinth.com/mod/smooth-swapping)~~ 
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 * [Starlight](https://modrinth.com/mod/starlight)
@@ -45,8 +45,10 @@
 * [Block Meter](https://modrinth.com/mod/blockmeter)
 * [Emotecraft](https://modrinth.com/mod/emotecraft)
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-* [ItemSwapper](https://modrinth.com/plugin/itemswapper)
+* [ItemSwapper](https://modrinth.com/plugin/itemswapper) (Not in use at the moment)
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+* [Axiom](https://modrinth.com/mod/axiom)
+* [Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
 
 ### CurseForge:
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+* ~~[WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)~~
